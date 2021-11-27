@@ -6,15 +6,10 @@
 - 🥅 GOALS : HAPPY MY PARENTS BEFORE THEY GIVE
 
 ### CONNECT WITH ME :
-## INSTAGRAM 
-[<img align="left" alt="FbotzYT2 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] 👈 CLICK THAT YOU WILL BE TAKEN TO MY INSTAGRAM PAGE
-
-## TWITTER
-[<img align="left" alt="FbotzYT2 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] 👈 CLICK THAT YOU WILL BE TAKEN TO MY TWITTER PAGE
-
-## YOUTUBE 
-[<img align="left" alt="FbotzYT2 | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youTube.svg" />][youtube] 👈 CLICK THAT YOU WILL BE TAKEN TO MY YOUTUBE PAGE
-
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
 
