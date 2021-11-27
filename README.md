@@ -7,13 +7,13 @@
 
 ### CONNECT WITH ME :
 ## INSTAGRAM 
-[<img align="left" alt="Fandyyy._ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] 👈 CLICK THAT YOU WILL BE TAKEN TO MY INSTAGRAM PAGE
+[<img align="left" alt="FbotzYT2 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] 👈 CLICK THAT YOU WILL BE TAKEN TO MY INSTAGRAM PAGE
 
 ## TWITTER
-[<img align="left" alt="Fandyyy14 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] 👈 CLICK THAT YOU WILL BE TAKEN TO MY TWITTER PAGE
+[<img align="left" alt="FbotzYT2 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] 👈 CLICK THAT YOU WILL BE TAKEN TO MY TWITTER PAGE
 
 ## YOUTUBE 
-[<img align="left" alt="FBOTZ | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youTube.svg" />][youtube] 👈 CLICK THAT YOU WILL BE TAKEN TO MY YOUTUBE PAGE
+[<img align="left" alt="FbotzYT2 | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youTube.svg" />][youtube] 👈 CLICK THAT YOU WILL BE TAKEN TO MY YOUTUBE PAGE
 
 
 
