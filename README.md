@@ -32,7 +32,7 @@
 
 ### Repo Stats 🔭
 
-<p align="center">![github card](https://github-readme-stats.vercel.app/api/pin/?username=FbotzYT2&repo=FbotzYT2&theme=dark)</a></p>
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=FbotzYT2&repo=FbotzYT2&theme=dark)
 
 
 <details>
