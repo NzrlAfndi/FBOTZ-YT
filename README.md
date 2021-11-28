@@ -31,8 +31,8 @@
 <!-- icons without padding -->
 
 [1.2]: https://imgur.com/6e1BPKZ.png (facebook icon without padding)
-[2.2]: https://imgur.com/9VdrX5F.png (youtube icon)
-[3.2]: https://imgur.com/yycZUmo.png (instagram icon)
+[2.2]: https://imgur.com/7b7DxIP.png (youtube icon)
+[3.2]: https://imgur.com/ZfzAD04.png (instagram icon)
 
 <!-- links to your social media accounts -->
 
