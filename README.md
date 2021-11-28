@@ -11,10 +11,10 @@
 
 ---
 
-### SOCIAL MEDIA ME
+### SOCIAL MEDIA ME 📚
 <p align="center">
   <a href="https://instagram.com/fandyyy._"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://wa.me/message/JBGU4J2DVYEDK1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://wa.me/message/FDEA65XQNZMAF1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   <a href="https://www.facebook.com/nazril.afandi.98"><img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
   <a href="https://youtu.be/WgeItwiifYs"><img src="https://img.shields.io/badge/YouTube-zeeone ofc-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/channel/UCdzWwbApjkyODby7_MoRYlA" /><br>
   <a name=zeeoneofc&label=VIEWS&style=flat-square&color=orange" />
@@ -30,10 +30,15 @@
 <p align="center"><a href="https://github.com/FbotzYT2"><img src="https://github-readme-stats.vercel.app/api?username=FbotzYT2&show_icons=true&theme=radical"></a></p>
 <p align="center"><a href="https://github.com/FbotzYT2"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FbotzYT2&theme=radical&layout=compact"></a></p> 
 
-### Repo Stats 🔭
+---
+
+## Repo Stats 📝
 
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=FbotzYT2&repo=FbotzYT2&theme=dark)
 
+---
+
+## Other 🏆
 
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
