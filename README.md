@@ -31,8 +31,9 @@
 <p align="center"><a href="https://github.com/FbotzYT2"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FbotzYT2&theme=radical&layout=compact"></a></p> 
 
 ### Repo Stats 🔭
+
 <p align="center">
-   <![github card](https://github-readme-stats.vercel.app/api/pin/?username=FbotzYT2&repo=FbotzYT2&theme=dark)>
+   ![github card](https://github-readme-stats.vercel.app/api/pin/?username=FbotzYT2&repo=FbotzYT2&theme=dark)
 </p>
 
 
