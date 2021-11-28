@@ -13,6 +13,8 @@
 
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] 👈 Click this to interact
 
+[<img align="left" alt="codeSTACKr | github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github] 👈 Click this to interact
+
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
@@ -60,6 +62,7 @@
 [youtube]: https://twitter.com/FbotzYt
 [twitter]: https://github.com/fandyyy14
 [instagram]: https://instagram.com/fandyyy._
+[github]: https://github.com/FbotzYT2
 
 
 <!-- Resources -->
