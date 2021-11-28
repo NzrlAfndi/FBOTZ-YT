@@ -4,7 +4,9 @@
 
 ## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Nazril Afandi or you can call me Fandyyy or Fbotz 👤. I'm from Indonesian 🇮🇩. You cant find me on 
+- My name : Nazril Afandi
+- Country : Indonesia 🇮🇩
+- Social Media : [![Facebook][1.2]][1], [![Youtube][1.2]][1], [![Instagram][1.2]][1], [![Github][1.2]][1]
 
 ## &#x1f4c8; GitHub Stats
 
@@ -28,17 +30,18 @@ My name is Nazril Afandi or you can call me Fandyyy or Fbotz 👤. I'm from Indo
 
 <!-- icons without padding -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
+[1.2]:  (facebook icon without padding)
+[2.2]:  (youtube icon)
+[3.2]:  (instagram icon)
+[3.2]: http://i.imgur.com/0o48UoR.png (github icon)
 
 <!-- links to your social media accounts -->
 
-[youtube]: https://twitter.com/FbotzYt
-[twitter]: https://github.com/fandyyy14
-[instagram]: https://instagram.com/fandyyy._
-[github]: https://github.com/FbotzYT2
+[1]: https://twitter.com/FbotzYt
+[2]: https://github.com/fandyyy14
+[3]: https://instagram.com/fandyyy._
+[4]: https://github.com/FbotzYT2
+[5]: https://facebook.com/nazril.afandi.98
 
 
 <!-- Resources -->
