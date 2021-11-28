@@ -6,13 +6,12 @@
 
 ## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- My name : Nazril Afandi
+- My name : Fbotz
 - Country : Indonesia 🇮🇩
-- Social Media : [![Facebook][1.2]][1] [![Youtube][2.2]][2] [![Instagram][3.2]][3]
 
 ---
 
-### Connect with me ☎️
+### SOCIAL MEDIA ME
 <p align="center">
   <a href="https://instagram.com/fandyyy._"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
   <a href="https://wa.me/message/JBGU4J2DVYEDK1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
