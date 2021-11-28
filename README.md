@@ -6,7 +6,12 @@
 
 - My name is Nazril Afandi or you can call me Fandyyy or Fbotz 👤
 - I'm from Indonesian 🇮🇩
-- You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+
+# Connect With Me : 
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 
 ## &#x270d; Blog & Writing
 
@@ -61,9 +66,9 @@ Apart from coding
 
 <!-- links to your social media accounts -->
 
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://github.com/MartinHeinz
-[3]: https://www.linkedin.com/in/heinz-martin/
+[youtube]: https://twitter.com/FbotzYt
+[twitter]: https://github.com/fandyyy14
+[instagram]: https://instagram.com/fandyyy._
 
 
 <!-- Resources -->
