@@ -6,7 +6,7 @@
 
 - My name : Nazril Afandi
 - Country : Indonesia 🇮🇩
-- Social Media : [![Facebook][1.2]][1], [![Youtube][2.2]][2], [![Instagram][3.2]][3], [![Github][4.2]][4]
+- Social Media : [![Facebook][1.2]][1] [![Youtube][2.2]][2] [![Instagram][3.2]][3]
 
 ## &#x1f4c8; GitHub Stats
 
@@ -31,18 +31,14 @@
 <!-- icons without padding -->
 
 [1.2]: https://imgur.com/6e1BPKZ.png (facebook icon without padding)
-[2.2]: https://imgur.com/9VdrX5F.png (youtube icon)
+[2.2]: https://imgur.com7b7DxIP (youtube icon)
 [3.2]: https://imgur.com/FTfZyuk.png (instagram icon)
-[4.2]: http://i.imgur.com/0o48UoR.png (github icon)
 
 <!-- links to your social media accounts -->
 
 [1]: https://facebook.com/nazril.afandi.98
 [2]: https://youtube.com/Fbotzyt
 [3]: https://instagram.com/fandyyy._
-[4]: https://github.com/FbotzYT2
-
-
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
