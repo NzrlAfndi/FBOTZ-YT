@@ -31,7 +31,7 @@
 <!-- icons without padding -->
 
 [1.2]: https://imgur.com/6e1BPKZ.png (facebook icon without padding)
-[2.2]: https://imgur.com/gallery/7b7DxIP.png (youtube icon)
+[2.2]: https://imgur.com/7b7DxIP.png (youtube icon)
 [3.2]: https://imgur.com/FTfZyuk.png (instagram icon)
 [4.2]: http://i.imgur.com/0o48UoR.png (github icon)
 
