@@ -2,11 +2,29 @@
 
 [![Header](https://raw.githubusercontent.com/FbotzYT2/FbotzYT2/master/20211128_073024.jpg "Header")](https://martinheinz.dev/)
 
+---
+
 ## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - My name : Nazril Afandi
 - Country : Indonesia 🇮🇩
 - Social Media : [![Facebook][1.2]][1] [![Youtube][2.2]][2] [![Instagram][3.2]][3]
+
+---
+
+### Connect with me ☎️
+<p align="center">
+  <a href="https://instagram.com/fandyyy._"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+  <a href="https://wa.me/message/JBGU4J2DVYEDK1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://www.facebook.com/nazril.afandi.98"><img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
+  <a href="https://youtu.be/WgeItwiifYs"><img src="https://img.shields.io/badge/YouTube-zeeone ofc-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/channel/UCdzWwbApjkyODby7_MoRYlA" /><br>
+  <a name=zeeoneofc&label=VIEWS&style=flat-square&color=orange" />
+  <a href="https://github.com/FbotzYT2"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
+  <a href="https://youtube.com/channel/UCdzWwbApjkyODby7_MoRYlA"><img src="https://img.shields.io/youtube/channel/subscribers/UCdzWwbApjkyODby7_MoRYlA?style=social" /> <br>
+  <a href="https://komarev.com/ghpvc/?username=FbotzYT2&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=FbotzYT2&color=blue&style=flat-square&label=Profile+View"></a>
+</p>
+
+---
 
 ## &#x1f4c8; GitHub Stats
 
@@ -35,30 +53,3 @@
 ![Metrics](https://metrics.lecoq.io/FbotzYT2?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FMakassar)
 
 </details> 
-
-<!-- links to social media icons -->
-
-<!-- icons with padding -->
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-<!-- icons without padding -->
-
-[1.2]: https://imgur.com/6e1BPKZ.png (facebook icon without padding)
-[2.2]: https://imgur.com/7b7DxIP.png (youtube icon)
-[3.2]: https://imgur.com/FTfZyuk.png (instagram icon)
-
-<!-- links to your social media accounts -->
-
-[1]: https://facebook.com/nazril.afandi.98
-[2]: https://youtube.com/Fbotzyt
-[3]: https://instagram.com/fandyyy._
-
-<!-- Resources -->
-<!-- Icons: https://simpleicons.org/ -->
-<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
-<!-- Emojis: https://emojipedia.org/emoji/ -->
-<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
-<!-- Shields: https://shields.io/ -->
-<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
