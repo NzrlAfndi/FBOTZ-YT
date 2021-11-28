@@ -41,11 +41,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FbotzYT2&repo=FbotzYT2&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-
-<a href="https://github.com/FbotzYT2/go-to-famous">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FbotzYT2&repo=go-to-famous&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
-
 <!-- links to social media icons -->
 
 <!-- icons with padding -->
