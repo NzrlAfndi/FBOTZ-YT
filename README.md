@@ -32,7 +32,7 @@
 
 [1.2]: https://imgur.com/6e1BPKZ.png (facebook icon without padding)
 [2.2]: https://imgur.com/7b7DxIP.png (youtube icon)
-[3.2]: https://imgur.com/wqrIjYa.png (instagram icon)
+[3.2]: https://imgur.com/4yPQp.png (instagram icon)
 
 <!-- links to your social media accounts -->
 
