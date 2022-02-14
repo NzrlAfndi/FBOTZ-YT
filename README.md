@@ -35,6 +35,8 @@
 ## Repo Stats 📝
 
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=FBOTZ-YT&repo=FBOTZ-YT&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=FBOTZ-YT&repo=RyuBotzMD&theme=dark)
+
 
 ---
 
