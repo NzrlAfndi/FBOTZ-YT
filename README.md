@@ -28,7 +28,7 @@
 ## &#x1f4c8; GitHub Stats
 
 <p align="center"><a href="https://github.com/FBOTZ-YT"><img src="https://github-readme-stats.vercel.app/api?username=FBOTZ-YT&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/FBOTZ-YT"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FbotzYT2&theme=radical&layout=compact"></a></p> 
+<p align="center"><a href="https://github.com/FBOTZ-YT"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FBOTZ-YT&theme=radical&layout=compact"></a></p> 
 
 ---
 
