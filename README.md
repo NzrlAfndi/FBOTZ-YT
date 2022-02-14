@@ -4,10 +4,12 @@
 
 ---
 
-## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hello, Friends ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- My name : Fbotz
-- Country : Indonesia 🇮🇩
+- My name Fandyyy
+- My Country Indonesia 🇮🇩
+- 17 Y.O 🌱
+- You Can Contact Me On Social Media Below
 
 ---
 
