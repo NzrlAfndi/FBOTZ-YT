@@ -35,7 +35,8 @@
 ## Repo Stats 📝
 
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=FBOTZ-YT&repo=FBOTZ-YT&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=FBOTZ-YT&repo=RyuBotzMD&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=FBOTZ-YT&repo=Killua-Zoldyck&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=FBOTZ-YT&repo=Alphabot-Md&theme=dark)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=FBOTZ-YT&repo=Hisoka-Morou&theme=dark)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=FBOTZ-YT&repo=ShiraoriBot-MD&theme=dark)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=FBOTZ-YT&repo=Wabot-Aq&theme=dark)
